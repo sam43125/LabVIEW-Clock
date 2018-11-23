@@ -21,6 +21,8 @@
 			</Item>
 		</Item>
 		<Item Name="Controls" Type="Folder">
+			<Item Name="Sys or Set Clock.ctl" Type="VI" URL="../Controls/Sys or Set Clock.ctl"/>
+			<Item Name="Set or Cancel Alarm.ctl" Type="VI" URL="../Controls/Set or Cancel Alarm.ctl"/>
 			<Item Name="TIme.ctl" Type="VI" URL="../Controls/TIme.ctl"/>
 		</Item>
 		<Item Name="Resources" Type="Folder">
@@ -28,6 +30,10 @@
 		</Item>
 		<Item Name="Documents" Type="Folder">
 			<Item Name="LabVIEW Program_HW2_Clock.doc" Type="Document" URL="../Documents/LabVIEW Program_HW2_Clock.doc"/>
+		</Item>
+		<Item Name="Icons" Type="Folder">
+			<Item Name="wall-clock.png" Type="Document" URL="../Icons/wall-clock.png"/>
+			<Item Name="alarm-clock.png" Type="Document" URL="../Icons/alarm-clock.png"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
