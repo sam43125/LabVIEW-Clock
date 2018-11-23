@@ -22,8 +22,9 @@
 		</Item>
 		<Item Name="Controls" Type="Folder">
 			<Item Name="Sys or Set Clock.ctl" Type="VI" URL="../Controls/Sys or Set Clock.ctl"/>
+			<Item Name="Time.ctl" Type="VI" URL="../Controls/Time.ctl"/>
+			<Item Name="Alarm Mode.ctl" Type="VI" URL="../Controls/Alarm Mode.ctl"/>
 			<Item Name="Set or Cancel Alarm.ctl" Type="VI" URL="../Controls/Set or Cancel Alarm.ctl"/>
-			<Item Name="TIme.ctl" Type="VI" URL="../Controls/TIme.ctl"/>
 		</Item>
 		<Item Name="Resources" Type="Folder">
 			<Item Name="NOKIA-N73.wav" Type="Document" URL="../Resources/NOKIA-N73.wav"/>
@@ -46,6 +47,15 @@
 				<Item Name="Sound Output Stop.vi" Type="VI" URL="/&lt;vilib&gt;/sound2/lvsound2.llb/Sound Output Stop.vi"/>
 				<Item Name="Sound Output Task ID.ctl" Type="VI" URL="/&lt;vilib&gt;/sound2/lvsound2.llb/Sound Output Task ID.ctl"/>
 				<Item Name="Sound Output Wait.vi" Type="VI" URL="/&lt;vilib&gt;/sound2/lvsound2.llb/Sound Output Wait.vi"/>
+				<Item Name="Bit-array To Byte-array.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/Bit-array To Byte-array.vi"/>
+				<Item Name="imagedata.ctl" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/imagedata.ctl"/>
+				<Item Name="Create Mask By Alpha.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Create Mask By Alpha.vi"/>
+				<Item Name="Directory of Top Level VI.vi" Type="VI" URL="/&lt;vilib&gt;/picture/jpeg.llb/Directory of Top Level VI.vi"/>
+				<Item Name="Check Path.vi" Type="VI" URL="/&lt;vilib&gt;/picture/jpeg.llb/Check Path.vi"/>
+				<Item Name="Read PNG File.vi" Type="VI" URL="/&lt;vilib&gt;/picture/png.llb/Read PNG File.vi"/>
+				<Item Name="FixBadRect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/FixBadRect.vi"/>
+				<Item Name="Draw Flattened Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Flattened Pixmap.vi"/>
+				<Item Name="Empty Picture" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Empty Picture"/>
 			</Item>
 			<Item Name="lvsound2.dll" Type="Document" URL="/&lt;resource&gt;/lvsound2.dll"/>
 		</Item>
