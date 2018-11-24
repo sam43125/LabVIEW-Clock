@@ -28,6 +28,7 @@
 		</Item>
 		<Item Name="Resources" Type="Folder">
 			<Item Name="NOKIA-N73.wav" Type="Document" URL="../Resources/NOKIA-N73.wav"/>
+			<Item Name="Clock Numbers.png" Type="Document" URL="../Resources/Clock Numbers.png"/>
 		</Item>
 		<Item Name="Documents" Type="Folder">
 			<Item Name="LabVIEW Program_HW2_Clock.doc" Type="Document" URL="../Documents/LabVIEW Program_HW2_Clock.doc"/>
