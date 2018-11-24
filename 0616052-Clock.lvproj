@@ -25,6 +25,7 @@
 			<Item Name="Time.ctl" Type="VI" URL="../Controls/Time.ctl"/>
 			<Item Name="Alarm Mode.ctl" Type="VI" URL="../Controls/Alarm Mode.ctl"/>
 			<Item Name="Set or Cancel Alarm.ctl" Type="VI" URL="../Controls/Set or Cancel Alarm.ctl"/>
+			<Item Name="Show Stopwatch.ctl" Type="VI" URL="../Controls/Show Stopwatch.ctl"/>
 		</Item>
 		<Item Name="Resources" Type="Folder">
 			<Item Name="NOKIA-N73.wav" Type="Document" URL="../Resources/NOKIA-N73.wav"/>
@@ -36,6 +37,7 @@
 		<Item Name="Icons" Type="Folder">
 			<Item Name="wall-clock.png" Type="Document" URL="../Icons/wall-clock.png"/>
 			<Item Name="alarm-clock.png" Type="Document" URL="../Icons/alarm-clock.png"/>
+			<Item Name="stopwatch.png" Type="Document" URL="../Icons/stopwatch.png"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
